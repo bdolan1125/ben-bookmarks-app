@@ -3,7 +3,7 @@
 }
 
 body {
-    background-image: url('/desklamp.jpg');
+    background-color: black;
 }
 
 header, .filter-section {
@@ -74,7 +74,7 @@ button:hover {
 
 #add-bookmark-form {
     color: white;
-    background-color: black;
+    background-color:#3f1313;
     margin-top: 20px;
     border-radius: 20px;
     margin-left: 20%;
